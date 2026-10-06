@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="suffering_engine/suffering_engine.vcxproj" Id="1d8c2b24-aef0-4ad2-835b-e5d066259b4e">
+    <BuildDependency Project="suffering_engine_core/suffering_engine_core.vcxproj" />
+  </Project>
+  <Project Path="suffering_engine_core/suffering_engine_core.vcxproj" Id="318ce9b8-fe3c-4725-881e-804a3952783b" />
+</Solution>
