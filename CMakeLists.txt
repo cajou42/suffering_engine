@@ -5,6 +5,7 @@ project(suffering_engine)
 set(core_base_path "suffering_engine_core\\")
 set(include_core_path "include\\")
 set(src_core_path "src\\")
+set(core_external_path "external\\")
 set(src_app_path "suffering_engine\\")
 
 add_subdirectory(${core_base_path})
